@@ -1,0 +1,22 @@
+body{
+    background-color: silver;
+}
+
+header, footer{
+    padding: 40px;
+    background-color: black;
+}
+
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.mainContent{
+    height: 70vh;
+    background-color: white;
+}
+
+
+
+
