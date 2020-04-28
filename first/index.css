@@ -12,8 +12,8 @@ header, footer{
     margin: 0 auto;
 }
 
-.mainContent{
-    height: 70vh;
+.contentArea{
+    height: 80vh;
     background-color: white;
 }
 
